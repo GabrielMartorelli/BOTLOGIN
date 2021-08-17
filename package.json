@@ -1,0 +1,17 @@
+{
+  "name": "robo-que-faz-login",
+  "version": "1.0.0",
+  "description": "Um robô em js + node.js + puppeteer que faz login em sites e da like ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12",
+    "puppeteer": "^10.1.0"
+  },
+  "author": "Gabriel Martorelli",
+  "license": "MIT"
+}
